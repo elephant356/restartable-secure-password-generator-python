@@ -6,8 +6,10 @@ You can view the set of randomly selected characters that will be used to genera
 if you dont, you can decline and the program will start over and you can get new random characters generated again.
 
 You can then chose between an easy or hard version for your final password. 
-Easy mode will generate a password with the number of letters, symbols, and numbers in that order. 
+
+Easy mode will generate a password with the amount of letters, symbols, and numbers you selected in that order. 
 Hard mode will create a totally random password including the length of letters, symbols, and numbers you chose.
+
 For example, if you input was 4 Letters, 4 Symbols, and 2 Numbers...
   Easy mode would look something like: aBcD!@#$12
   Hard mode would look something like: !D@2ca#$1B
