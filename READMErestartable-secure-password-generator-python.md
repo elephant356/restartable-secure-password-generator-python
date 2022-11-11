@@ -11,5 +11,7 @@ Easy mode will generate a password with the amount of letters, symbols, and numb
 Hard mode will create a totally random password including the length of letters, symbols, and numbers you chose.
 
 For example, if your input was 4 Letters, 4 Symbols, and 2 Numbers...
-  Easy mode would look something like: aBcD!@#$12
-  Hard mode would look something like: !D@2ca#$1B
+
+Easy mode would look something like: aBcD!@#$12
+
+Hard mode would look something like: !D@2ca#$1B
